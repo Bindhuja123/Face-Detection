@@ -1,2 +1,1 @@
-# Face-Detection
-Face detection using python
+# PRO-C106-Reference-Code
